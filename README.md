@@ -1,0 +1,2 @@
+# 8-Queen-problem-genetic-algorithm-ai-python
+Program to solve 8 Queen Problem using the genetic algorithm. The main difference between this algorithm and other algorithms is that before the children are produced by the parents, first the parents' heuristic is calculated based on the position of the queen and then, as much as possible, the queen's position on the chessboard changes to reach a fitness level of 28, otherwise the parents will have children.
